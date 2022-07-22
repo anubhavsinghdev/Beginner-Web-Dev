@@ -1,0 +1,12 @@
+1. color Flipper
+2. c to f and f to c
+3. Guess the Color (Show answer RGB with 5 more random colors)
+4. weather app
+5. tic tac toe
+6. responsive navbar
+7. calculator
+8. to-do-list app
+9. rock paper scissor
+10. stopwatch/clock
+11. cotact form with regex
+12. Lorem ipsum generator
